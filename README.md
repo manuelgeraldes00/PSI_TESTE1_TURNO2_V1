@@ -49,7 +49,7 @@ P2 - Resposta
     Visto que 'short' tem um alcançe inferior a 'long', é impossível a variável 's' guardar o valor pedido.
     Assim sendo, podemos alterar o tipo a que a propriedade 'MaxValue' acede para 'short'.
 
-### P3. Escreve um programa que solicite ao utilizador dois números reais e apresente o resultado do primeiro (base) elevado ao segundo (expoente). Podes usar um método da classe Math para obter o resultado
+### P3. Escreve um programa que solicite ao utilizador dois números reais e apresente o resultado do primeiro (base) elevado ao segundo (expoente). Não podes usar um método da classe Math para obter o resultado
 
 P3 - Resposta
 
